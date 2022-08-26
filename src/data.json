@@ -1,0 +1,218 @@
+[
+    {
+     "id": "1",
+     "technoId": 1,
+     "phones": 1,
+     "title": "IPhone 12 Pro Max 128GB (Gray)",
+     "imageUrl": "images/iphone/phone1.png",
+     "price": 1300
+    },
+    {
+     "id": "2",
+     "technoId": 1,
+     "phones": 1,
+     "title": "IPhone 12 Pro 256 GB (Blue)",
+     "imageUrl": "images/iphone/phone2.png",
+     "price": 900
+    },
+    {
+     "id": "26",
+     "technoId": 4,
+     "title": "TV LG 86UP81006 Smart",
+     "imageUrl": "images/television/tv2.jpg",
+     "price": 3000
+    },
+    {
+     "id": "27",
+     "technoId": 4,
+     "title": "TV LG 86UP81006 Smart",
+     "imageUrl": "images/television/tv3.jpg",
+     "price": 2700
+    },
+    {
+     "id": "6",
+     "technoId": 1,
+     "phones": 2,
+     "title": "Samsung Galaxy A21S 3/32GB",
+     "imageUrl": "images/samsung/phone2.png",
+     "price": 700
+    },
+    {
+     "id": "7",
+     "technoId": 1,
+     "phones": 2,
+     "title": "Samsung Galaxy S10Lite 6/128GB",
+     "imageUrl": "images/samsung/phone3.png",
+     "price": 1500
+    },
+    {
+     "id": "8",
+     "technoId": 1,
+     "phones": 2,
+     "title": "Samsung Galaxy A41 4/64GB",
+     "imageUrl": "images/samsung/phone4.png",
+     "price": 850
+    },
+    {
+     "id": "13",
+     "technoId": 2,
+     "nout": 1,
+     "title": "Lenovo IdeaPad L3 15IML05",
+     "imageUrl": "images/noutbook/nout2.png",
+     "price": 1300
+    },
+    {
+     "id": "25",
+     "technoId": 4,
+     "title": "TV LG 86UP81006 Smart",
+     "imageUrl": "images/television/tv1.jpg",
+     "price": 2800
+    },
+    {
+     "id": "16",
+     "technoId": 2,
+     "nout": 1,
+     "title": "Apple MacBook Air 13 2020",
+     "imageUrl": "images/noutbook/nout1.png",
+     "price": 1500
+    },
+    {
+     "id": "17",
+     "technoId": 2,
+     "nout": 2,
+     "title": "Dream Machines 15UA51",
+     "imageUrl": "images/noutbook/nout3.png",
+     "price": 1000
+    },
+    {
+     "id": "9",
+     "technoId": 1,
+     "phones": 3,
+     "title": "Mi 10t Pro 8/256GB (Black)",
+     "imageUrl": "images/xiaomi/phone4.png",
+     "price": 1300
+    },
+    {
+     "id": "10",
+     "technoId": 1,
+     "phones": 3,
+     "title": "Xiaomi mi 10t Pro 8/256GB (Silver)",
+     "imageUrl": "images/xiaomi/phone2.png",
+     "price": 700
+    },
+    {
+     "id": "18",
+     "technoId": 2,
+     "nout": 2,
+     "title": "Apple MacBook Air 13 2020",
+     "imageUrl": "images/noutbook/nout4.png",
+     "price": 1500
+    },
+    {
+     "id": "19",
+     "technoId": 2,
+     "nout": 2,
+     "title": "Dream Machines 15UA51",
+     "imageUrl": "images/noutbook/nout3.png",
+     "price": 1000
+    },
+    {
+     "id": "20",
+     "technoId": 2,
+     "nout": 2,
+     "title": "Dream Machines 15UA51",
+     "imageUrl": "images/noutbook/nout4.png",
+     "price": 1000
+    },
+    {
+     "id": "5",
+     "technoId": 1,
+     "phones": 2,
+     "title": "Samsung Galaxy A51 4/64GB",
+     "imageUrl": "images/samsung/phone1.png",
+     "price": 1300
+    },
+    {
+     "id": "21",
+     "technoId": 3,
+     "title": "Smart Watch W34 | ZM (White)",
+     "imageUrl": "images/watch/top1.png",
+     "price": 1300
+    },
+    {
+     "id": "14",
+     "technoId": 2,
+     "nout": 1,
+     "title": "Mi 10 Lite 6/64GB (Blue)",
+     "imageUrl": "images/noutbook/nout1.png",
+     "price": 850
+    },
+    {
+     "id": "15",
+     "technoId": 2,
+     "nout": 1,
+     "title": "Lenovo IdeaPad L3 15IML05",
+     "imageUrl": "images/noutbook/nout2.png",
+     "price": 1300
+    },
+    {
+     "id": "22",
+     "technoId": 3,
+     "title": "AirPods 2.1",
+     "imageUrl": "images/watch/top2.png",
+     "price": 700
+    },
+    {
+     "id": "11",
+     "technoId": 1,
+     "phones": 3,
+     "title": "Mi 10 Lite 6/64GB (Grey)",
+     "imageUrl": "images/xiaomi/phone3.png",
+     "price": 1500
+    },
+    {
+     "id": "12",
+     "technoId": 1,
+     "phones": 3,
+     "title": "Mi 10 Lite 6/64GB (Blue)",
+     "imageUrl": "images/xiaomi/phone1.png",
+     "price": 850
+    },
+    {
+     "id": "28",
+     "technoId": 4,
+     "title": "TV LG 86UP81006 Smart",
+     "imageUrl": "images/television/tv4.jpg",
+     "price": 2650
+    },
+    {
+     "id": "23",
+     "technoId": 3,
+     "title": "Smart Watch W34 | ZM (Black)",
+     "imageUrl": "images/watch/top3.png",
+     "price": 1500
+    },
+    {
+     "id": "24",
+     "technoId": 3,
+     "title": "Coffee machine VITEK VT-1526",
+     "imageUrl": "images/watch/top4.png",
+     "price": 850
+    },
+    {
+     "id": "3",
+     "technoId": 1,
+     "phones": 1,
+     "title": "IPhone 11 Pro 256 GB (Red)",
+     "imageUrl": "images/iphone/phone3.png",
+     "price": 1500
+    },
+    {
+     "id": "4",
+     "technoId": 1,
+     "phones": 1,
+     "title": "IPhone 11 Pro 128GB (Yellow)",
+     "imageUrl": "images/iphone/phone4.png",
+     "price": 850
+    }
+   ]
