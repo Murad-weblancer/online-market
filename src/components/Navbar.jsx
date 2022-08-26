@@ -32,7 +32,7 @@ export const Navbar = () => {
               {" "}
               <FiUser />{" "}
             </span>{" "}
-            Sing in
+            Order
           </li>
           <Link to="/cart">
             <li className="text-[14px] font-[400px] text-white flex items-center ml-10 cursor-pointer relative">
